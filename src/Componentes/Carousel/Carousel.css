@@ -1,4 +1,7 @@
-   .carousel-item{
+.carousel {
+    position: relative;
+}
+.carousel-item{
       height: 65vh;
       min-height: 300px;
       background: no-repeat center center scroll;
@@ -6,10 +9,8 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: 100%;
-      
   }
 
-  
   #carousel-info
   {    
       position: absolute;
@@ -23,10 +24,11 @@
       right: 5%;
       padding-top: 1em;
   }
-
+  
   .imagen{
       position: absolute; top: -30%;
   }
+  
   #logo-container
 {    
     position: absolute;
@@ -56,19 +58,7 @@
     width: 220px;
 }
 
-#carousel-info
-{    
-    position: absolute;
-    z-index: 100;
-    max-width: 30%;
-    color: #fff;
-    background: rgba(0,0,0,0.5);
-    height: 80px;
-    left:0;
-    top: 80%;
-    right: 5%;
-    padding-top: 1em;
-}
+
 
 .border-important {
     max-width: 450px;

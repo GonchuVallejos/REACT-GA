@@ -8,7 +8,7 @@ function Carousel(){
         <div class="carousel-inner" role="listbox">
             
             <div class="carousel-item active">
-            <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/hornocal.jpg"/>
+            <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/hornocal.jpg" alt=""/>
                 <div id="carousel-info" class="carousel-caption d-none d-md-block">
                     <h3>Serranías del Hornocal</h3>
                     <p>Humahuaca</p>
@@ -16,7 +16,7 @@ function Carousel(){
             </div>
             
             <div class="carousel-item">
-            <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/cerro_7colores.jpg"/>
+            <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/cerro_7colores.jpg" alt=""/>
                 <div id="carousel-info" class="carousel-caption d-none d-md-block">
                     <h3>Cerro de 7 colores</h3>
                     <p>Purmamarca</p>
@@ -24,7 +24,7 @@ function Carousel(){
             </div>
             
             <div class="carousel-item">
-                <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/catedral.jpg"/>
+                <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/catedral.jpg" alt=""/>
                 <div id="carousel-info" class="carousel-caption d-none d-md-block">
                     <h3>Iglesia Catedral</h3>
                     <p>San Salvador de Jujuy</p>
@@ -32,7 +32,7 @@ function Carousel(){
             </div>
             
             <div class="carousel-item">
-            <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/salinas.jpg"/>
+            <img className="imagen d-block w-100" src="http://www.gajujuy.gob.ar/wp-content/themes/gaJujuy/images/slider/salinas.jpg" alt=""/>
                 <div id="carousel-info" class="carousel-caption d-none d-md-block">
                     <h3>Salinas Grandes</h3>
                     <p>Tumbaya</p>
