@@ -18,7 +18,7 @@
 }
 
 .dropdown-menu{
-    background-color: rgb(196, 195, 195);
+    background-color: rgb(221, 221, 221);
     border: rgba(255, 254, 254, 0);
 }
 
@@ -27,7 +27,7 @@
 }
 
 .dropdown-menu :active{
-    background-color: rgb(196, 195, 195);
+    background-color: rgb(221, 221, 221);
     border: rgba(255, 254, 254, 0);
 }
 

@@ -12,7 +12,7 @@ function Navegacion(){
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
-                <Nav.Link href="/">Solicitud de Información</Nav.Link>
+                <Nav.Link href="/Solicitud_Informacion">Solicitud de Información</Nav.Link>
                 <NavDropdown title="Presupuesto" id="basic-nav-dropdown">
                     <NavDropdown.Item href="Presupuesto/Información">Información</NavDropdown.Item>
                     <NavDropdown.Item href="Presupuesto/Presupuesto_Anuales">Presupuesto Anuales</NavDropdown.Item>
