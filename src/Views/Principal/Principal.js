@@ -1,6 +1,6 @@
 import React from 'react';
 import './Principal.css';
-import Carousel from './Componentes/Carousel/Carousel';
+import Carousel from '../../Componentes/Carousel/Carousel';
 
 function Principal() {
     return (

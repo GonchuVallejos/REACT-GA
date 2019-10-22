@@ -14,8 +14,8 @@ function Navegacion(){
             <Nav className="ml-auto">
                 <Nav.Link href="/Solicitud_Informacion">Solicitud de Información</Nav.Link>
                 <NavDropdown title="Presupuesto" id="basic-nav-dropdown">
-                    <NavDropdown.Item href="Presupuesto/Información">Información</NavDropdown.Item>
-                    <NavDropdown.Item href="Presupuesto/Presupuesto_Anuales">Presupuesto Anuales</NavDropdown.Item>
+                    <NavDropdown.Item href="/Información">Información</NavDropdown.Item>
+                    <NavDropdown.Item href="/Presupuesto">Presupuesto Anuales</NavDropdown.Item>
                 </NavDropdown>
                 <Nav.Link href="#Hole/">Home</Nav.Link>
                 <Nav.Link href="#Link/">Link</Nav.Link>

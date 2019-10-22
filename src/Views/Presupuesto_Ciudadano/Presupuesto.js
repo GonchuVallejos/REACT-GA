@@ -3,7 +3,7 @@ import './Presupuesto.css';
 
 function Presupuesto() {
     return(
-        <div className="Presupuestos">
+        <div className="Presupuesto">
             <div class="container">
                 <h1 class="mt-4 mb-3"> Presupuesto</h1>
                 <ol class="breadcrumb">
