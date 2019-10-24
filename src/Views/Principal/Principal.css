@@ -7,3 +7,13 @@
 .my-4 {
     text-align: left;
 }
+
+.btn {
+    background-color: #801A1C;
+    color: white;
+}
+
+.btn:hover{
+  background-color: white;
+  color: #801A1C;
+}

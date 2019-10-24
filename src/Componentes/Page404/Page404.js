@@ -12,15 +12,12 @@ function Page404(){
                 </li>
                 <li class="breadcrumb-item active">Error</li>
                 </ol>
-                <div className="Fondo">
-                    <h1 className="Negritas">Um, si. Esto es incómodo.</h1>
-                    <div className="row">
-                        <div className="col-md-3"/>
-                        <div className="col-md-6">
-                        <h5>Lo intentamos muy duro, pero no podíamos encontrar la página que estabas buscando. Puedes encontrar lo que buscas en nuestra página principal</h5>
-                        </div>
-                    </div>
-                    
+                <div class='c'>
+                    <div class='_404'>404</div>
+                    <hr/>
+                    <div class='_1'>LA PAGINA</div>
+                    <div class='_2'>NO SE ENCONTRO</div>
+                    <a class='btn' href='/'>VOLVER AL INICIO</a>
                 </div>
             </div>
         </div>

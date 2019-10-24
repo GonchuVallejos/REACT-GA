@@ -14,7 +14,7 @@ function Presupuesto() {
                 </ol>
                 <p></p>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <select class="form-control" name="years-select" id="years-select">
                             <option value="">Seleccione un año</option>
                             <option value="2017">2017</option>
@@ -22,13 +22,14 @@ function Presupuesto() {
                             <option value="2019">2019</option>
                         </select>
                     </div>
-                    <div class="col-md-8">
-                        <select class="form-control" name="tipo-select" id="tipo-select">
-                            <option value="">Seleccione una opción</option>
-                            <option value="Ingresos">Ingresos</option>
-                            <option value="Gastos">Gastos</option>
-                            <option value="Deudas">Deudas</option>
-                        </select>
+                    <div class="col-md-3">
+                        <a href="#/" class="btn">Ingresos</a>
+                    </div>
+                    <div class="col-md-3">
+                    <a href="#/" class="btn">Gastos</a>
+                    </div>
+                    <div class="col-md-3">
+                    <a href="#/" class="btn">Deudas</a>
                     </div>
                 </div>
             </div>

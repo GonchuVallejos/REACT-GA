@@ -17,9 +17,18 @@ function Principal() {
                         <p class="card-text"></p>
                     </div>
                     <div class="card-footer">
-                        <a href="#/" class="btn btn-primary">
-                            <img src="img/dataset.png" alt=""/>
-                        Data Sets</a>
+                        <a href="#/" class="btn">Data Sets</a>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 mb-3">
+                    <div class="card h-100">
+                    <h4 class="card-header">Escala Salarial</h4>
+                    <div class="card-body">
+                        <p class="card-text"></p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#/" class="btn">Learn More</a>
                     </div>
                     </div>
                 </div>
@@ -30,18 +39,7 @@ function Principal() {
                         <p class="card-text"></p>
                     </div>
                     <div class="card-footer">
-                        <a href="#/" class="btn btn-primary">Learn More</a>
-                    </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 mb-3">
-                    <div class="card h-100">
-                    <h4 class="card-header">Card Title</h4>
-                    <div class="card-body">
-                        <p class="card-text"></p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#/" class="btn btn-primary">Learn More</a>
+                        <a href="#/" class="btn">Learn More</a>
                     </div>
                     </div>
                 </div>
@@ -52,7 +50,7 @@ function Principal() {
                     <p class="card-text"></p>
                 </div>
                 <div class="card-footer">
-                    <a href="#/" class="btn btn-primary">Learn More</a>
+                    <a href="#/" class="btn">Learn More</a>
                 </div>
                 </div>
             </div>
