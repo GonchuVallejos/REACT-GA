@@ -9,6 +9,7 @@
 }
 
 .btn {
+    width: 90%;
     background-color: #801A1C;
     color: white;
 }
@@ -17,3 +18,9 @@
   background-color: white;
   color: #801A1C;
 }
+
+.informacion{
+  padding-top: 20px;
+}
+
+

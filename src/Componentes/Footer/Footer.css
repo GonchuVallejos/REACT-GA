@@ -12,7 +12,7 @@ body{
   
   .footer-top
   {
-      background: url(../img/silueta_footer.png);
+      background: url(../../img/silueta_footer.png);
       height: 150px;
       background-repeat: repeat, no-repeat;
       background-size: 850px;
@@ -73,25 +73,25 @@ body{
   
   footer .icon-facebook
   {
-      background: url(../img/facebook.png);
+      background: url(../../img/facebook.png);
       background-size: contain;
   }
   
   footer .icon-twitter
   {
-      background: url(../img/twitter.png);
+      background: url(../../img/twitter.png);
       background-size: contain;
   }
   
   footer .icon-youtube
   {
-      background: url(../img/youtube.png);
+      background: url(../../img/youtube.png);
       background-size: contain;
   }
   
   footer .icon-instagram
   {
-      background: url(../img/instagram.png);
+      background: url(../../img/instagram.png);
       background-size: contain;
   }
   

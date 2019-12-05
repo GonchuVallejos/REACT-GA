@@ -1,61 +1,34 @@
 import React from 'react';
 import './Principal.css';
 import Carousel from '../../Componentes/Carousel/Carousel';
+import Accesos from '../../Componentes/AccesosPrincipales/AccesosPrincipales';
+import Preguntas from '../../Componentes/PreguntasFrecuentes/PreguntasFrecuentes';
+import Solicitudes from '../../Componentes/InfoSolicitudes/InfoSolicitudes';
+import Paginas from '../../Componentes/PaginasSugeridas/PaginasSugeridas';
+import Noticias from '../../Componentes/Noticias/Noticias';
 
 function Principal() {
     return (
         <div className="Principal">
             < Carousel />
-        <div className="container">
-            <h1 className="my-4">Transparencia y Gobierno Abierto</h1>
-            <div class="row">
-                <div class="col-lg-3 mb-3">
-                    <div class="card h-100">
-                    <h4 class="card-header">Data Set</h4>
-                    <div class="card-body">
-                        <img src="img/dataset.png" alt=""/>
-                        <p class="card-text"></p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#/" class="btn">Data Sets</a>
-                    </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 mb-3">
-                    <div class="card h-100">
-                    <h4 class="card-header">Escala Salarial</h4>
-                    <div class="card-body">
-                        <p class="card-text"></p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#/" class="btn">Learn More</a>
-                    </div>
+            <div className="container">
+                <h1 className="my-4">Transparencia y Gobierno Abierto</h1>
+                    < Accesos />
+                <div className="informacion">
+                    <div className="row">
+                        <div className="col-lg-3">
+                            < Preguntas />
+                        </div>
+                        <div className="col-lg-6">
+                            < Solicitudes />
+                        </div>
+                        <div className="col-lg-3">
+                            < Paginas />
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-3 mb-3">
-                    <div class="card h-100">
-                    <h4 class="card-header">Card Title</h4>
-                    <div class="card-body">
-                        <p class="card-text"></p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="#/" class="btn">Learn More</a>
-                    </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 mb-3">
-                <div class="card h-100">
-                <h4 class="card-header">Transparencia</h4>
-                <div class="card-body">
-                    <p class="card-text"></p>
-                </div>
-                <div class="card-footer">
-                    <a href="#/" class="btn">Learn More</a>
-                </div>
-                </div>
+                < Noticias />
             </div>
-            </div>
-        </div>
         </div>
     );
 }

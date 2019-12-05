@@ -1,0 +1,41 @@
+#presupuesto {
+    border: 2px solid #ffffff;
+    background-color:#E9426D;
+    border-radius: 10px;
+    color: #FFFFFF;
+  }
+  
+  #escala {
+    border: 2px solid #ffffff;
+    background-color: #F9B342;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  #datos {
+    border: 2px solid #ffffff;
+    background-color:#1DAF8E;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  #decretos {
+    border: 2px solid #ffffff;
+    background-color:#85CEE4;
+    border-radius: 10px;
+    color: white;
+  }
+
+p {
+  color: black;
+  font-weight: bold;
+}
+
+small{
+  color: black;
+  font-weight: bold;
+}
+
+.AccesosPrincipales img {
+  filter: drop-shadow(6px 6px 10px rgb(0, 0, 0));
+}

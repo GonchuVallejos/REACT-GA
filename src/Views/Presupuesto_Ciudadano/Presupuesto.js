@@ -23,13 +23,13 @@ function Presupuesto() {
                         </select>
                     </div>
                     <div class="col-md-3">
-                        <a href="#/" class="btn">Ingresos</a>
+                    <a href="#/" class="btn">Ingresos</a>
                     </div>
                     <div class="col-md-3">
-                    <a href="#/" class="btn">Gastos</a>
+                        <a href="#/" class="btn">Gastos</a>
                     </div>
                     <div class="col-md-3">
-                    <a href="#/" class="btn">Deudas</a>
+                        <a href="#/" class="btn">Deudas</a>
                     </div>
                 </div>
             </div>

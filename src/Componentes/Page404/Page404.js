@@ -17,7 +17,7 @@ function Page404(){
                     <hr/>
                     <div class='_1'>LA PAGINA</div>
                     <div class='_2'>NO SE ENCONTRO</div>
-                    <a class='btn' href='/'>VOLVER AL INICIO</a>
+                    <a class='btn' id="btn" href='/'>VOLVER AL INICIO</a>
                 </div>
             </div>
         </div>

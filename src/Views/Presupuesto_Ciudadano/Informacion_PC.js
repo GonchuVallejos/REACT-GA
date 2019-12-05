@@ -38,7 +38,6 @@ function Informacion_PC() {
                                 <p class="number-title">$ 62.101.563.499,00</p>
                                 <p class="text-title">Gastos</p>
                                 </div>
-                                
                             </div>
                             </div>
                         </section>

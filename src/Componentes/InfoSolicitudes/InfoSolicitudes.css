@@ -1,0 +1,27 @@
+.InfoSolicitudes{
+    padding-bottom: 10px;
+    border-radius: 10px;
+    background-color: #47A5AA;
+    color: white;
+    text-align: center;
+    height: 100%;
+}
+
+.InfoSolicitudes .btn{
+    width: 90%;
+}
+
+.InfoSolicitudes hr {
+    background-color: white;
+    width: 100%;
+    height: 10px;
+}
+  
+.input-group {
+  padding-left: 10px;
+}
+
+#nro_sol {
+  padding-left: 20px;
+  font-size: 70px;
+}
