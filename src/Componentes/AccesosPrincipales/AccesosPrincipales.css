@@ -26,6 +26,10 @@
     color: white;
   }
 
-.AccesosPrincipales img {
-  filter: drop-shadow(6px 6px 10px rgb(0, 0, 0));
-}
+  .AccesosPrincipales img{
+    width: 50%;
+  }
+
+  .botones: hover path {
+    fill: red;
+  }

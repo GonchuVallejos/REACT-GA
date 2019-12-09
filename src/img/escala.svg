@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="158.044mm" height="158.044mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 15804 15804"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-0" y1="7902.22" x2="15804.4" y2="7902.22">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M15804 7902c0,4365 -3537,7902 -7902,7902 -4364,0 -7902,-3537 -7902,-7902 0,-4364 3538,-7902 7902,-7902 4365,0 7902,3538 7902,7902zm-3589 1645l-396 0c-173,0 -320,-154 -320,-336l0 -158c0,-176 138,-308 320,-308l374 0c95,0 193,62 193,166 0,255 208,463 463,463 256,0 463,-208 463,-463 0,-525 -380,-964 -886,-1068l0 -253c0,-255 -207,-463 -463,-463 -255,0 -463,208 -463,463l0 268c-539,136 -927,612 -927,1195l0 158c0,696 559,1262 1246,1262l396 0c181,0 323,137 323,311l0 106c0,171 -139,299 -323,299l-643 0c-91,0 -183,-56 -183,-164 0,-255 -207,-463 -463,-463 -256,0 -463,208 -463,463 0,588 450,1052 1037,1088l0 209c0,255 208,463 463,463 256,0 463,-208 463,-463l0 -224c596,-96 1038,-592 1038,-1208l0 -106c0,-682 -560,-1237 -1249,-1237l0 0zm-2195 -2467c-97,-39 -195,-75 -293,-109 696,-543 1144,-1390 1144,-2340 0,-1637 -1332,-2969 -2969,-2969 -1637,0 -2969,1332 -2969,2969 0,950 449,1798 1147,2342 -639,218 -1239,549 -1766,982 -993,817 -1684,1957 -1945,3209 -83,400 17,810 274,1126 255,314 635,495 1040,495l6034 0c256,0 463,-208 463,-463 0,-256 -207,-463 -463,-463l-6034 0c-172,0 -275,-96 -322,-153 -80,-99 -111,-228 -85,-353 446,-2141 2335,-3704 4516,-3755 37,1 73,2 110,2 37,0 74,-1 111,-2 574,13 1132,127 1660,341 237,96 507,-19 603,-256 96,-237 -19,-507 -256,-603l0 0zm-4161 -2449c0,-1127 917,-2043 2043,-2043 1127,0 2043,916 2043,2043 0,1094 -864,1990 -1946,2040 -32,0 -65,-1 -97,-1 -33,0 -66,1 -99,1 -1080,-52 -1944,-947 -1944,-2040l0 0z"/>
+ </g>
+</svg>

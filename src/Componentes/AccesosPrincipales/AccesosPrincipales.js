@@ -1,9 +1,9 @@
 import React from 'react';
 import './AccesosPrincipales.css';
-import btnpresupuesto from '../../img/presupuesto.png';
-import btnescala from '../../img/escala.png';
-import btndatos from '../../img/datos.png';
-import btndecretos from '../../img/decretos.png';
+import btnpresupuesto from '../../img/presupuesto.svg';
+import btnescala from '../../img/escala.svg';
+import btndatos from '../../img/datos.svg';
+import btndecretos from '../../img/decretos.svg';
 
 function AccesosPrincipales() {
     return (
@@ -13,8 +13,8 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="presupuesto">
                     <p/>
                     <a href="/Presupuesto">
-                         <img src={btnpresupuesto}></img>
-                         <p/>
+                         <img src={btnpresupuesto} className="svg botones"></img>
+                         <p>https://codeday.me/es/qa/20181202/2516.html</p><p/>
                     </a>
                     <p>PRESUPUESTO</p>
                     <small>Plan de distribución de recursos del estado provincial</small>

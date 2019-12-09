@@ -27,7 +27,7 @@ function Principal() {
                         </div>
                     </div>
                 </div>
-                < Noticias />
+                
             </div>
         </div>
     );
