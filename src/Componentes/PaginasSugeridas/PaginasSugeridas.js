@@ -40,7 +40,7 @@ function PaginasSugeridas(){
             </div>
         </a>
         <p/>
-        <a href="#/" class="btn" target="_blank">
+        <a href="http://www.ambientejujuy.gob.ar/plan-provincial-girsu/" class="btn" target="_blank">
             <div className="row">
                 <div className="col-lg-4 my-auto">
                     <img src={boletin}></img>
@@ -51,9 +51,27 @@ function PaginasSugeridas(){
             </div>
         </a>
         <p/>
-        <a href="#/" class="btn" target="_blank">¿Que es?</a>
+        <a href="https://www.argentina.gob.ar/modernizacion" class="btn" target="_blank">
+            <div className="row">
+                <div className="col-lg-4 my-auto">
+                    <img src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico"></img>
+                </div>
+                <div className="col-lg-8 my-auto">
+                    Min. de Modernización
+                </div>
+            </div>
+        </a>
         <p/>
-        <a href="#/" class="btn" target="_blank">¿Que es?</a>
+        <a href="http://www.opengovpartnership.org/es/" class="btn" target="_blank">
+            <div className="row">
+                <div className="col-lg-4 my-auto">
+                    <img src="https://www.opengovpartnership.org/wp-content/uploads/2019/04/open-government-partnership-logo-square-600x600-300x300.png"></img>
+                </div>
+                <div className="col-lg-8 my-auto">
+                    Open Government Partnership
+                </div>
+            </div>
+        </a>
     </div>
     );
 }

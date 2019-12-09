@@ -1,0 +1,11 @@
+.LeerNoticia {
+    text-align: justify;
+}
+
+.LeerNoticia img{
+    width: 100%;
+}
+
+.LeerNoticia p{
+    padding-bottom: 15px;
+}

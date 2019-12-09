@@ -1,18 +1,19 @@
 .PaginasSugeridas{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 10px;
-    background-color: #47A5AA;
-    color: #FFFFFF;
-    height: 100%;
-  }
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  background-color: #47A5AA;
+  color: #FFFFFF;
+  height: 100%;
+  width: 100%;
+}
   
-  .PaginasSugeridas .btn{
-    width: 90%;
-    height: 50px;
-    font-size: smaller;
-  }
+.PaginasSugeridas .btn{
+  width: 90%;
+  height: 50px;
+  font-size: smaller;
+}
   
-  .PaginasSugeridas img {
-    height: 30px;
-  }
+.PaginasSugeridas img {
+  height: 30px;
+}

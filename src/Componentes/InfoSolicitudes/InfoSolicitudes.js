@@ -5,15 +5,9 @@ function InfoSolicitudes() {
     return(
     <div className="InfoSolicitudes">
         <div class="row">
-            <div class="col-lg-6">
-                    <div className="row" >
-                        <div className="col-lg-5" id="nro_sol">
-                            400
-                        </div>
-                        <div className="col-lg-7 align-self-center">
-                            Solicitudes de informacion
-                        </div>
-                    </div>
+            <div class="col-lg-6 my-auto">
+                <h1>400</h1>
+                <h6>Solicitudes de información</h6>
             </div>
             <div class="col-lg-6 my-auto">
                 <a href="/Solicitud_Informacion" class="btn">Solicitar informacion</a>

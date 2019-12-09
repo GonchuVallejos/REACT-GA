@@ -8,6 +8,7 @@ import Formulario from './Views/SolicitudInformación/Formulario_Sol_Inf';
 import Informacion from './Views/Presupuesto_Ciudadano/Informacion_PC';
 import Presupuesto from './Views/Presupuesto_Ciudadano/Presupuesto';
 import Contacto from './Views/Contacto/Contacto';
+import Noticia from './Views/LeerNoticia/LeerNoticia';
 import Page404 from './Componentes/Page404/Page404';
 
 const AppRoutes = () => 
@@ -18,6 +19,7 @@ const AppRoutes = () =>
         <Route exact path="/Información" component={Informacion}/>
         <Route exact path="/Presupuesto" component={Presupuesto}/>
         <Route exact path="/Contacto" component={Contacto}/>
+        <Route exact path="/Noticias/:id" component={Noticia}/>
         <Route component={Page404}/>
         </Switch>    
 </App>
