@@ -29,16 +29,13 @@ function Footer(){
                     <div class="contacto-redes-footer">
                         <hr/>
                         <div class="redes-sociales">
-                            <a href="http://" target="_blank">
+                            <a href="https://www.facebook.com/gajujuy/"  rel="noopener noreferrer" target="_blank">
                                 <span class="icon-facebook"></span>
                             </a>
-                            <a href="http://" target="_blank">
+                            <a href="https://twitter.com/gajujuy"  rel="noopener noreferrer" target="_blank">
                                 <span class="icon-twitter"></span>
                             </a>
-                            <a href="http://" target="_blank">
-                                <span class="icon-instagram"></span>
-                            </a>
-                            <a href="https://www.youtube.com/channel/UCbzyTBB2iSl5JW3VftriTCw?view_as=subscriber" target="_blank">
+                            <a href="https://www.youtube.com/channel/UCbzyTBB2iSl5JW3VftriTCw?view_as=subscriber"  rel="noopener noreferrer" target="_blank">
                                 <span class="icon-youtube"></span>
                             </a>
                         </div>

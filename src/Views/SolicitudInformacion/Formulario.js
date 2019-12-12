@@ -1,7 +1,8 @@
 import React from 'react';
-import './Formulario_Sol_Inf.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './Formulario.css'
 
-function Formulario_Sol_Inf(){
+function Formulario(){
     return(
         <div className="Formulario">
             <div class="container">
@@ -192,4 +193,4 @@ function Formulario_Sol_Inf(){
     );
 }
 
-export default Formulario_Sol_Inf;
+export default Formulario;

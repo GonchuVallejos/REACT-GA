@@ -13,7 +13,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="presupuesto">
                     <p/>
                     <a href="/Presupuesto">
-                         <img src={btnpresupuesto}></img>
+                         <img src={btnpresupuesto} alt="" />
                          <p/>
                     </a>
                     <p>PRESUPUESTO</p>
@@ -22,7 +22,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="escala">
                     <p/>
                     <a href="http://www.gajujuy.gob.ar/escala-salarial/">
-                        <img src={btnescala}></img>
+                        <img src={btnescala} alt="" />
                         <p/>
                     </a>
                     <p>ESCALA SALARIAL</p>
@@ -31,7 +31,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="datos">
                     <p/>
                     <a href="http://www.gajujuy.gob.ar/datos-abiertos/">
-                        <img src={btndatos}></img>
+                        <img src={btndatos} alt="" />
                         <p/>
                     </a>
                     <p>DATOS ABIERTOS</p>
@@ -40,7 +40,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="decretos">
                     <p/>
                      <a href="http://www.gajujuy.gob.ar/decretos/">
-                         <img src={btndecretos}></img>
+                         <img src={btndecretos} alt="" />
                         <p/>
                     </a>
                     <p>DESCRETOS Y RESOLUCIONES</p>
