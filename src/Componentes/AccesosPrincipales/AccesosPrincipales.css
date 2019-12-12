@@ -26,16 +26,6 @@
     color: white;
   }
 
-p {
-  color: black;
-  font-weight: bold;
-}
-
-small{
-  color: black;
-  font-weight: bold;
-}
-
-.AccesosPrincipales img {
-  filter: drop-shadow(6px 6px 10px rgb(0, 0, 0));
-}
+  .AccesosPrincipales img{
+    width: 50%;
+  }

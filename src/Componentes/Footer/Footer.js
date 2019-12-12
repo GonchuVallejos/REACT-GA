@@ -15,7 +15,7 @@ function Footer(){
                             <p>Sarmiento N° 174 - Dpto 12A</p>
                             <p>San Salvador de Jujuy (4600)</p>
                             <p>0388-4239452 | 388 446-2864</p>
-                            <p>info@gajujuy.gob.ar</p>
+                            <p>gobiernoabiertojujuy@gmail.com</p>
                         </h4>        
                     <hr></hr>
                 </div>

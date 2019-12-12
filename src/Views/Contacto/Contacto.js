@@ -32,13 +32,13 @@ function Contacto() {
             <div class="col-lg-4 mb-4">
                 <h3>Contacto</h3>
                 <p>Sarmiento 174 - Dpto 12A</p>
-                <br/>San Salvador de Jujuy, CP 4600
+                <p>San Salvador de Jujuy, CP 4600</p>
+                <br/>
                 <p>
                     <abbr title="Telefono">T</abbr>: 0388-4239452 | 388 446-2864
                 </p>
                 <p>
-                    <abbr title="Email">E</abbr>:
-                    <a href="mailto:name@example.com">info@gajujuy.gob.ar</a>
+                    <abbr title="Email">E</abbr>: gobiernoabiertojujuy@gmail.com
                 </p>
                 <p>
                 <abbr title="Horarios">H</abbr>: Lunes - Viernes: 8:00 AM a 1:00 PM

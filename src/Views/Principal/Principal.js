@@ -5,7 +5,6 @@ import Accesos from '../../Componentes/AccesosPrincipales/AccesosPrincipales';
 import Preguntas from '../../Componentes/PreguntasFrecuentes/PreguntasFrecuentes';
 import Solicitudes from '../../Componentes/InfoSolicitudes/InfoSolicitudes';
 import Paginas from '../../Componentes/PaginasSugeridas/PaginasSugeridas';
-import Noticias from '../../Componentes/Noticias/Noticias';
 
 function Principal() {
     return (
@@ -27,7 +26,7 @@ function Principal() {
                         </div>
                     </div>
                 </div>
-                < Noticias />
+                
             </div>
         </div>
     );

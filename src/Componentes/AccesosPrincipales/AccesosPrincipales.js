@@ -1,9 +1,9 @@
 import React from 'react';
 import './AccesosPrincipales.css';
-import btnpresupuesto from '../../img/presupuesto.png';
-import btnescala from '../../img/escala.png';
-import btndatos from '../../img/datos.png';
-import btndecretos from '../../img/decretos.png';
+import btnpresupuesto from '../../img/presupuesto.svg';
+import btnescala from '../../img/escala.svg';
+import btndatos from '../../img/datos.svg';
+import btndecretos from '../../img/decretos.svg';
 
 function AccesosPrincipales() {
     return (
@@ -13,7 +13,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="presupuesto">
                     <p/>
                     <a href="/Presupuesto">
-                         <img src={btnpresupuesto} alt="" />
+                         <img src={btnpresupuesto} className="svg" alt=""/>
                          <p/>
                     </a>
                     <p>PRESUPUESTO</p>
@@ -22,7 +22,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="escala">
                     <p/>
                     <a href="http://www.gajujuy.gob.ar/escala-salarial/">
-                        <img src={btnescala} alt="" />
+                        <img src={btnescala} className="svg" alt=""/>
                         <p/>
                     </a>
                     <p>ESCALA SALARIAL</p>
@@ -31,7 +31,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="datos">
                     <p/>
                     <a href="http://www.gajujuy.gob.ar/datos-abiertos/">
-                        <img src={btndatos} alt="" />
+                        <img src={btndatos} className="svg" alt=""/>
                         <p/>
                     </a>
                     <p>DATOS ABIERTOS</p>
@@ -40,7 +40,7 @@ function AccesosPrincipales() {
                 <div className="col-lg-3 mb-2" id="decretos">
                     <p/>
                      <a href="http://www.gajujuy.gob.ar/decretos/">
-                         <img src={btndecretos} alt="" />
+                         <img src={btndecretos} className="svg" alt=""/>
                         <p/>
                     </a>
                     <p>DESCRETOS Y RESOLUCIONES</p>

@@ -10,13 +10,13 @@
 
 .btn {
     width: 90%;
-    background-color: #801A1C;
+    background-color: rgb(11, 103, 131);
     color: white;
 }
 
 .btn:hover{
   background-color: white;
-  color: #801A1C;
+  color: #85CEE4;
 }
 
 .informacion{
