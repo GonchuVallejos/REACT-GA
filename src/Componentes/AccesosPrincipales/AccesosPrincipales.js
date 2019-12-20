@@ -21,7 +21,7 @@ function AccesosPrincipales() {
                 </div>
                 <div className="col-lg-3 mb-2" id="escala">
                     <p/>
-                    <a href="http://www.gajujuy.gob.ar/escala-salarial/">
+                    <a href="/Escala_Salarial">
                         <img src={btnescala} className="svg" alt=""/>
                         <p/>
                     </a>

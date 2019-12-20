@@ -29,3 +29,7 @@
   .AccesosPrincipales img{
     width: 50%;
   }
+  
+  small{
+    position: bottom;
+  }
