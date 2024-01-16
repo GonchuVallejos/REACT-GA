@@ -1,3 +1,21 @@
+:root {
+  --negro: #2E2D2C;
+  --gris: #8A8A8D;
+  --verde: #4C6E36;
+  --verde-1: #90C685;
+  --verde-2: #1DAF8E;
+  --verde-3: #00907E;
+  --azul: #3B4395;
+  --azul-1: #5567AE;
+  --celeste: #85CEE4;
+  --celeste-1: #DFF2FD;
+  --rojo: #DE7683;
+  --rosa: #E9426D;
+  --rosa-1: #f28d65;
+  --naraja: #F9B342;
+  --naraja-1: #FEDEA9;
+}
+
 body {
   margin: 0;
   font-family: 'Lexend Deca', sans-serif;

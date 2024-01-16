@@ -1,8 +1,10 @@
+@import './../../index.css';
+
 .PreguntasFrecuentes{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
-    background-color: #47A5AA;
+    background-color: var(--celeste);
     color: #FFFFFF;
     height: 100%;
     width: 100%;

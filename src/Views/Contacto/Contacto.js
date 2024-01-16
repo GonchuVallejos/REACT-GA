@@ -1,4 +1,5 @@
 import React from 'react';
+import Iframe from 'react-iframe';
 import './Contacto.css';
 
 function Contacto() {
@@ -17,7 +18,15 @@ function Contacto() {
     
             <div class="row">
             <div class="col-lg-8 mb-4">
-                <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1819.7849308289076!2d-65.2999279!3d-24.1868136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941b0f4370ea9e81%3A0xe73c14b82bfd607d!2sDirecci%C3%B3n%20de%20Transparencia%20y%20Gobierno%20Abierto!5e0!3m2!1ses!2sar!4v1575299301003!5m2!1ses!2sar"></iframe>
+                <Iframe 
+                    width="100%" 
+                    height="400px" 
+                    frameborder="0" 
+                    scrolling="no" 
+                    marginheight="0" 
+                    marginwidth="0" 
+                    title="" 
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1819.7849308289076!2d-65.2999279!3d-24.1868136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941b0f4370ea9e81%3A0xe73c14b82bfd607d!2sDirecci%C3%B3n%20de%20Transparencia%20y%20Gobierno%20Abierto!5e0!3m2!1ses!2sar!4v1575299301003!5m2!1ses!2sar" />
 
             </div>
             <div class="col-lg-4 mb-4">

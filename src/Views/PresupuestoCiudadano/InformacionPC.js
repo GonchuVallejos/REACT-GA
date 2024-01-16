@@ -1,7 +1,7 @@
 import React from 'react';
-import './Informacion_PC.css';
+import './InformacionPC.css';
 
-function Informacion_PC() {
+function InformacionPC() {
     return(
         <div className="Informacion">
             <div class="container">
@@ -247,4 +247,4 @@ function Informacion_PC() {
         </div>
     );
 }
-export default Informacion_PC;
+export default InformacionPC;

@@ -1,24 +1,26 @@
 import React from 'react';
-import './PreguntasFrecuentes.css';
+//import './PreguntasFrecuentes.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Button, Alert } from 'react-bootstrap';
 
 function PreguntasFrecuentes(){
     return(
-    <div className="PreguntasFrecuentes">
+    <Alert variant="info">
         <h5>Preguntas Frecuentes</h5>
-        <a href="#/" class="btn" id="boton">¿Que es?</a>
-        <p/>
-        <a href="/Información" class="btn">Presupuesto</a>
-        <p/>
-        <a href="#/" class="btn">¿Que es?</a>
-        <p/>
-        <a href="#/" class="btn">¿Que es?</a>
-        <p/>
-        <a href="#/" class="btn">¿Que es?</a>
-        <p/>
-        <a href="#/" class="btn">¿Que es?</a>
-        <p/>
-        <a href="#/" class="btn">¿Que es?</a>
-    </div>
+        <Button variant="primary">
+            Block level button
+        </Button>
+        <Button variant="primary">
+            Block level button
+        </Button>
+        <Button variant="primary">
+            Block level button
+        </Button>
+        <Button variant="primary">
+            Block level button
+        </Button>
+
+    </Alert>
     );
 }
 

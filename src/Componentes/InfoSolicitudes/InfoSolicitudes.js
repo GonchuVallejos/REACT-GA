@@ -10,7 +10,7 @@ function InfoSolicitudes() {
                 <h6>Solicitudes de información</h6>
             </div>
             <div class="col-lg-6 my-auto">
-                <a href="/Solicitud_Informacion" class="btn">Solicitar informacion</a>
+                <a href="/SolicitudInformacion" class="btn">Solicitar informacion</a>
             </div>
         </div>
         <hr></hr>

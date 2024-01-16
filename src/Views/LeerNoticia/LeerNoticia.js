@@ -12,7 +12,7 @@ function LeerNoticia (){
                 </li>
                 <li class="breadcrumb-item active">Noticia</li>
                 </ol>
-                <img src="http://jujuy.gob.ar/home/img/fotos/asiste.jpg"></img>
+                <img src="http://jujuy.gob.ar/home/img/fotos/asiste.jpg" alt="" />
                 <h2 className="my-5" id="titulo">Asiste</h2>
                 <p>tgvhhjhhdschiesjwiocscrSin embargo, no todas las propiedades numéricas del objeto style son convertidas a strings con píxeles. Ciertas propiedades se mantienen sin unidad (p.ej zoom, order, flex). Una lista completa de las propiedades sin unidad puede verse aquí.
 
